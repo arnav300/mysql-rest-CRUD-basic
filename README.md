@@ -3,7 +3,9 @@
 This will help you with a simple guide on creating a CRUD web service and connecting with MySql DB.
 
 Prerequisite:
-- Eclipse IDE for Java EE or any Java IDE with Apache Maven support. (I recommend IntelliJ IDEA)
+- Eclipse IDE for Java EE or any Java IDE with Apache Maven support.
+- Maven 3.x
+- JDK 1.8
 - MySQL 5.x
 - phpMyAdmin or any other clients to access MySQL database
 - Postman or any other REST Clients
